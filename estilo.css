@@ -90,6 +90,10 @@ html{
     font-size: 15px;
     font-weight: normal;
 }
+.alt{
+text-decoration: none;
+color: #fff;
+}
 .inicio .contenido-banner .redes a{
     color: #fff;
     display: inline-block;
